@@ -1,0 +1,3 @@
+- Hi, I'm Lehi Guzman
+- I'm experienced in developing such as backend or frontend.
+- I'd been working for about 12 years on differents languages as PHP, Javascript, typescript, angularJS among others.
